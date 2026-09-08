@@ -1,1 +1,2 @@
 this is the first line of second file
+changes made in feature 2
